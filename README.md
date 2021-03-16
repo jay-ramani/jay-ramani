@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jay
+- 👀 I’m interested in Arduinos, STMs, ESP32s and Pi-clones
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python, AI and home automation
+- 📫 Reach me via a PM on GitHub/Discord
